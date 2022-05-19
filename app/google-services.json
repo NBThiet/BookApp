@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818614762111",
+    "project_id": "book-app-b8438",
+    "storage_bucket": "book-app-b8438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818614762111:android:35e1efe55ae81cc8399d4a",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818614762111-b0gq3rtjph83no5srfgfnd66lhmluh6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVCa1fv3SmmWPA2vV4pTZNBO-WlRYLkL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818614762111-b0gq3rtjph83no5srfgfnd66lhmluh6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
